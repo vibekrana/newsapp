@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vibekrana/newsapp/static/css/main.f855e6bc.css",
+    "main.js": "/vibekrana/newsapp/static/js/main.b20dfed2.js",
+    "static/js/453.08c78f33.chunk.js": "/vibekrana/newsapp/static/js/453.08c78f33.chunk.js",
+    "static/media/6.gif": "/vibekrana/newsapp/static/media/6.a326046f3f8dfe652e45.gif",
+    "index.html": "/vibekrana/newsapp/index.html",
+    "main.f855e6bc.css.map": "/vibekrana/newsapp/static/css/main.f855e6bc.css.map",
+    "main.b20dfed2.js.map": "/vibekrana/newsapp/static/js/main.b20dfed2.js.map",
+    "453.08c78f33.chunk.js.map": "/vibekrana/newsapp/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b20dfed2.js"
+  ]
+}
